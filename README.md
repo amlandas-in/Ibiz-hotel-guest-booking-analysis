@@ -116,3 +116,29 @@ VIP guests generate disproportionate value through higher spending and repeat bo
 - Recent booking activity strongly correlates with increased spending
 
 - Revenue growth opportunities lie more in retention and personalization than in guest volume alone
+
+---
+
+## 💡 Business Recommendations
+
+- Strengthen VIP retention by offering priority services, exclusive deals, and personalized communication
+
+- Convert high-spending occasional guests into frequent guests through targeted loyalty incentives
+
+- Re-engage inactive guests using personalized offers based on past booking behavior
+
+- Upsell premium services to top payers through bundled stays and tailored experiences
+
+- Focus on retention over acquisition to maximize customer lifetime value and revenue stability
+
+---
+
+## 🛠 Tools & Techniques Used
+
+- Data cleaning and preprocessing
+
+- Guest segmentation using frequency, recency, and spending logic
+
+- KPI calculation and aggregation
+
+- Dashboard creation and visual storytelling
