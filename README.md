@@ -41,7 +41,7 @@ Guests are segmented based on booking frequency to understand loyalty behavior a
 
 #### Key Insight:
 A small group of frequent guests shows significantly higher average booking values, while occasional guests contribute more revenue through booking volume. This indicates strong potential to grow loyalty-driven revenue.
-***
+![image alt](https://github.com/amlandas-in/Ibiz-hotel-guest-booking-analysis/blob/9cc8aa9dfd35f6953ddaac8d78bda6288e1768b2/assets/Ibiz_frequency_DB.png)
 
 ### 2️⃣ Spending Overview
 
@@ -61,7 +61,7 @@ Guests are categorized based on total spending to identify high-value customers.
 
 #### Key Insight:
 Top payers form a smaller customer base but contribute the majority of total revenue, highlighting clear opportunities for premium pricing and targeted upselling.
-****
+![image alt](https://github.com/amlandas-in/Ibiz-hotel-guest-booking-analysis/blob/9cc8aa9dfd35f6953ddaac8d78bda6288e1768b2/assets/Ibiz_spending_DB.png)
 
 ### 3️⃣ Recency Analysis
 
@@ -81,7 +81,7 @@ Guests are classified based on recent booking activity to measure engagement.
 
 #### Key Insight:
 Recently active guests spend significantly more per booking, showing a strong relationship between recency and revenue potential.
-****
+![image alt](https://github.com/amlandas-in/Ibiz-hotel-guest-booking-analysis/blob/9cc8aa9dfd35f6953ddaac8d78bda6288e1768b2/assets/Ibiz_recency_DB.png)
 
 ### 4️⃣ VIP Guest Overview
 
@@ -103,7 +103,7 @@ This dashboard identifies the most valuable guests using a combination of freque
 
 #### Key Insight:
 VIP guests generate disproportionate value through higher spending and repeat bookings, making them critical for long-term revenue stability.
-****
+![image alt](https://github.com/amlandas-in/Ibiz-hotel-guest-booking-analysis/blob/9cc8aa9dfd35f6953ddaac8d78bda6288e1768b2/assets/Ibiz_VIP_DB.png)
 
 ---
 
